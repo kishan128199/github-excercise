@@ -1,5 +1,4 @@
-Project started
-Login page
-Fix typo in login page
-Dashboard page
+Add login page
+Add dashboard
+Fix login typo
 Fix dashboard typo
